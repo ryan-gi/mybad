@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "A2B2B0E8-E57D-4164-9218-C240EF643742",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:mybad.xcodeproj",
+      "identifier" : "9434C39424D2AE3F0013E5F9",
+      "name" : "mybad"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
